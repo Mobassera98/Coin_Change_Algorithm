@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616937382 source:c:\users\user\documents\coin_change_algo\main.c
+	<stdio.h>
+	<stdlib.h>
+
